@@ -7,7 +7,7 @@ Created on Sun Mar 21 00:31:48 2021
 
 import os
 
-mylist = os.listdir("C:/Users/OZLEM/Desktop/kartacaalls")
+mylist = os.listdir("../kartacaalls")
 
 sorted_list=sorted(mylist)
 
