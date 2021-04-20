@@ -6,4 +6,4 @@ Created on Sat Apr 10 15:44:48 2021
 """
 import nilearn
 from nilearn import plotting
-plotting.plot_glass_brain("C:/Users/OZLEM/Desktop/Data_Ozlem/UM_1_0050366_reho.nii")   
+plotting.plot_glass_brain("../UM_1_0050366_reho.nii")   
